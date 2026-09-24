@@ -1,6 +1,6 @@
 # OmniDraft
 
-A local-first Next.js workspace that transforms raw thoughts into platform-specific drafts for LinkedIn, X (Twitter), Email Newsletters, and Dev Blogs.
+A local-first Next.js workspace that transforms raw thoughts into platform-specific drafts for LinkedIn, X, Email Newsletters, and Dev Blogs.
 
 ---
 
